@@ -1,5 +1,5 @@
 # 📘 Linear Algebra Course Policy 
-### Imp : Notes are to be read
+### Imp : notes folder is to be read (not reference material)
 **4 major phases**
 
 ---
